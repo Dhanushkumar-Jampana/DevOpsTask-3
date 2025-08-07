@@ -61,7 +61,9 @@ terraform state list
 
 ## 🎯 Outcome
 
-<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/bf00b1e2-cde1-4f4b-90f3-b6690513f382" />
+<img width="1920" height="1080" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/9189dfad-d5bf-45ea-afa5-cee5ca6fcf1f" />
+
+<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/bc9a17fe-e572-4c16-999d-e54c286cf96f" />
 
 
 By completing this task, you'll understand how to:
