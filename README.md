@@ -58,9 +58,10 @@ terraform state list
 ```
 
 ---
-<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/83b0fe11-1a28-414f-894d-3a44f589206c" />
 
 ## 🎯 Outcome
+<img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/847f4403-5b2b-4b44-82d0-e2e5deba92e1" />
+
 <img width="1920" height="1080" alt="Screenshot (106)" src="https://github.com/user-attachments/assets/b834c493-2cad-44de-9190-f3de65a89996" />
 
 
